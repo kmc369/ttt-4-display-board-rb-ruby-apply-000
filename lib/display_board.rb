@@ -1,1 +1,2 @@
-puts board = [" "," "," "," ", " X "," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
+puts display_board(board)
